@@ -20,5 +20,5 @@ print("[i] Generated shellcode:")
 for line in hatasm.hexdump(shellcode):
     print(line)
 
-print("[*] Writing shellcode to ELF..")
+print("[*] Writing shellcode to ELF...")
 hatvenom.generate_to('elf', 'x64', shellcode)
