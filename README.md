@@ -1,2 +1,3 @@
-# Exploitation-Techniques
-Some exploitation techniques from EntySec.
+# SET
+
+Superior Exploitation Techniques
