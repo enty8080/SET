@@ -1,6 +1,6 @@
 # HatSploit
 
-```assembly
+```shell
 sessions --auto-interaction off
 
 use exploit/generic/handler/reverse_tcp
